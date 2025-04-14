@@ -1,0 +1,18 @@
+name: Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Запуск каждый день в полночь (можно менять по необходимости)
+  workflow_dispatch:  # Возможность запускать вручную
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Update README with Wakatime stats
+        uses: anmol098/waka-readme-stats@v1
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_TOKEN }}  # Секрет с токеном Wakatime
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Секрет с токеном GitHub
