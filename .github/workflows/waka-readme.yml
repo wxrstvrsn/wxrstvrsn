@@ -2,22 +2,41 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update Readme with WakaTime Metrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Update WakaTime stats in README
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          ### Основные блоки:
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMIT: "True"
+
+          ### Дополнительно:
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_UPDATED_DATE: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_UPDATED_DATE: "True"
+
+          ### Настройки коммита:
+          COMMIT_MESSAGE: "📈 WakaTime Stats Updated"
+          COMMIT_BY_ME: "False"
