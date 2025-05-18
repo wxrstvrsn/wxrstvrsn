@@ -52,7 +52,6 @@ Rider                    41 mins             ███████████�
 🐱‍💻 Projects: 
 GameSuessTheNumber       36 mins             ██████████████████████░░░   87.74 % 
 ShopManagement           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Cuphead                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Windows                  41 mins             █████████████████████████   100.00 % 
@@ -75,5 +74,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 01:11:56 UTC
+ Last Updated on 18/05/2025 01:18:02 UTC
 <!--END_SECTION:waka-->
