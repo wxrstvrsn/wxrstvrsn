@@ -15,6 +15,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2057%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+🌆 Daytime                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+🌃 Evening                179 commits         █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌙 Night                  209 commits         ██████████░░░░░░░░░░░░░░░   41.47 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Tuesday                  112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -32,5 +71,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 01:16:21 UTC
+ Last Updated on 03/07/2025 01:16:17 UTC
 <!--END_SECTION:waka-->
