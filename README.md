@@ -42,20 +42,16 @@ Sunday                   31 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ██████████████░░░░░░░░░░░   55.53 % 
-Bash                     13 mins             █████████░░░░░░░░░░░░░░░░   35.40 % 
-textmate                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tg-media-loader          36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -75,5 +71,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2025 01:13:06 UTC
+ Last Updated on 23/10/2025 01:11:13 UTC
 <!--END_SECTION:waka-->
