@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2013%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -42,16 +42,17 @@ Sunday                   31 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 mins              █████████████████████████   98.32 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Task_1_Braces            4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,5 +72,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2025 01:11:13 UTC
+ Last Updated on 24/10/2025 01:07:25 UTC
 <!--END_SECTION:waka-->
