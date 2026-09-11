@@ -21,7 +21,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           ### Основные блоки:
-          SHOW_AI_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
@@ -31,6 +30,7 @@ jobs:
           SHOW_COMMIT: "True"
 
           ### Дополнительно:
+          SHOW_AI_CODE_TIME: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
