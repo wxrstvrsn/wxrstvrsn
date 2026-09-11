@@ -21,7 +21,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           ### Основные блоки:
-          DISABLE_AI_DETECTION: "True"
+          SHOW_AI_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
