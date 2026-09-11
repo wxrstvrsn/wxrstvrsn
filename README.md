@@ -15,28 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-🌆 Daytime                99 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌃 Evening                180 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  207 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+🌆 Daytime                99 commits          █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌃 Evening                180 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌙 Night                  208 commits         ██████████░░░░░░░░░░░░░░░   40.15 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Tuesday                  114 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Tuesday                  114 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Saturday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 
 
@@ -44,30 +44,28 @@ Sunday                   29 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 25 mins       ████████████████████████░   95.51 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Python                   3 hrs 37 mins       ███████████████████████░░   93.39 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 40 mins       █████████████████████████   99.35 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+PyCharm                  3 hrs 50 mins       █████████████████████████   98.88 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🐱‍💻 Projects: 
-VVP                      6 hrs 37 mins       █████████████████████████   98.55 % 
-lesson1                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-rfr                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VVP                      3 hrs 50 mins       █████████████████████████   98.88 % 
+rfr                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.65%)
+⏱ AI Coding Time: 2 mins (1.12%)
 
-✍️ 0 lines written by AI, 680 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 254 lines written by hand (0.0% AI-written)
 
 🔤 21,126 Input Tokens, 1,817 Output Tokens
 
@@ -101,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 02:39:16 UTC
+ Last Updated on 11/09/2026 22:51:18 UTC
 <!--END_SECTION:waka-->
