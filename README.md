@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -42,25 +44,44 @@ Sunday                   29 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 1 min         ████████████████████████░   95.63 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   6 hrs 25 mins       ████████████████████████░   95.51 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 15 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 40 mins       █████████████████████████   99.35 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-VVP                      5 hrs 12 mins       █████████████████████████   98.98 % 
-lesson1                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VVP                      6 hrs 37 mins       █████████████████████████   98.55 % 
+lesson1                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+rfr                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (0.65%)
+
+✍️ 0 lines written by AI, 680 lines written by hand (0.0% AI-written)
+
+🔤 21,126 Input Tokens, 1,817 Output Tokens
+
+💵 $0.10 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -80,5 +101,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:45:58 UTC
+ Last Updated on 11/09/2026 02:39:16 UTC
 <!--END_SECTION:waka-->
