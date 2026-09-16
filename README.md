@@ -42,23 +42,20 @@ Sunday                   29 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 6 mins        ████████████████████████░   94.87 % 
-Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python                   8 hrs 3 mins        █████████████████████████   99.10 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 10 mins       ████████████████████████░   95.56 % 
-Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+PyCharm                  8 hrs 5 mins        █████████████████████████   99.46 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-VVP                      8 hrs 8 mins        ████████████████████████░   95.18 % 
-g-p-6a9ef98ef394819197dcc22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-rfr                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VVP                      8 hrs 5 mins        █████████████████████████   99.46 % 
+rfr                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Mac                      8 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -78,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 03:03:46 UTC
+ Last Updated on 16/09/2026 03:00:05 UTC
 <!--END_SECTION:waka-->
