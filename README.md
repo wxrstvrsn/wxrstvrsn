@@ -42,20 +42,16 @@ Sunday                   29 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 50 mins       █████████████████████████   99.09 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   6 hrs 26 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 51 mins       █████████████████████████   99.45 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+PyCharm                  6 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VVP                      7 hrs 51 mins       █████████████████████████   99.45 % 
-rfr                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+VVP                      6 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,5 +71,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 03:03:16 UTC
+ Last Updated on 18/09/2026 02:51:01 UTC
 <!--END_SECTION:waka-->
