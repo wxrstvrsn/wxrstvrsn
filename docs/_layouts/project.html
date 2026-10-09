@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="project">
+  <a class="back" href="{{ '/' | relative_url }}#projects">← Все проекты</a>
+
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}<p class="lead">{{ page.summary }}</p>{% endif %}
+
+  {% if page.stack %}
+  <ul class="tags">
+    {% for tech in page.stack %}<li>{{ tech }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if page.repo or page.demo %}
+  <div class="actions">
+    {% if page.repo %}<a class="button" href="{{ page.repo }}">Репозиторий</a>{% endif %}
+    {% if page.demo %}<a class="button button-secondary" href="{{ page.demo }}">Демо</a>{% endif %}
+  </div>
+  {% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>

@@ -1,0 +1,45 @@
+# Настройки сайта-портфолио.
+# Сайт собирается GitHub Pages (Jekyll) из папки docs/ ветки main.
+
+title: wxrstvrsn
+author: wxrstvrsn
+description: Разработчик. Пишу на C++ и Python, делаю ботов, утилиты и игры.
+lang: ru
+github_username: wxrstvrsn
+
+# Сайт живёт по адресу https://wxrstvrsn.github.io/wxrstvrsn/
+# Если когда-нибудь переедешь в репозиторий wxrstvrsn.github.io — поставь baseurl: ""
+url: https://wxrstvrsn.github.io
+baseurl: /wxrstvrsn
+
+# Ссылки в шапке главной страницы.
+links:
+  - name: GitHub
+    url: https://github.com/wxrstvrsn
+  # - name: Telegram
+  #   url: https://t.me/your_nickname
+  # - name: Email
+  #   url: mailto:you@example.com
+
+# Каждый файл в _projects/ становится отдельной страницей /projects/<имя-файла>/
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
