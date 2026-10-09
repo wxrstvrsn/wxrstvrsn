@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<section class="hero">
+  <img class="avatar" src="https://github.com/{{ site.github_username }}.png?size=192" alt="" width="96" height="96">
+  <div>
+    <h1>{{ site.author }}</h1>
+    <p class="lead">{{ site.description }}</p>
+    <ul class="links">
+      {% for link in site.links %}<li><a href="{{ link.url }}">{{ link.name }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section id="projects">
+  <h2>Проекты</h2>
+  <div class="grid">
+    {% assign projects = site.projects | sort: 'order' %}
+    {% for project in projects %}
+    <a class="card" href="{{ project.url | relative_url }}">
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.summary }}</p>
+      {% if project.stack %}
+      <ul class="tags">
+        {% for tech in project.stack %}<li>{{ tech }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
