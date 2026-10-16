@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,25 +44,25 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 31 mins      ███████████████████░░░░░░   77.56 % 
-CSV                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-.env file                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   15 hrs 52 mins      ████████████████████░░░░░   79.51 % 
+CSV                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+.env file                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 3 mins       ███████████████████████░░   91.16 % 
-Claude Code              1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+PyCharm                  18 hrs 18 mins      ███████████████████████░░   91.71 % 
+Claude Code              1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🐱‍💻 Projects: 
-TeleTorr                 12 hrs 45 mins      █████████████████░░░░░░░░   68.14 % 
-SpotipyLiker             2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-VVP                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-telegram-media-bot       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-task6                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TeleTorr                 15 hrs              ███████████████████░░░░░░   75.20 % 
+telegram-media-bot       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+SpotipyLiker             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+VVP                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+task6                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Mac                      18 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,5 +82,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 22:41:49 UTC
+ Last Updated on 16/10/2026 02:50:57 UTC
 <!--END_SECTION:waka-->
