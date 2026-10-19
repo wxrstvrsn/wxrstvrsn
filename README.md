@@ -44,25 +44,25 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 37 mins      ████████████████████░░░░░   81.80 % 
-CSV                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   10 hrs 51 mins      ███████████████████████░░   90.97 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+CSV/TSV                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 38 mins      ██████████████████████░░░   87.43 % 
-Claude Code              2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+PyCharm                  11 hrs 20 mins      ████████████████████████░   95.04 % 
+Claude Code              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🐱‍💻 Projects: 
-TeleTorr                 13 hrs 59 mins      ████████████████████░░░░░   78.23 % 
-telegram-media-bot       2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-VVP                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-task6                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-SpotipyLiker             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TeleTorr                 9 hrs 45 mins       ████████████████████░░░░░   81.66 % 
+VVP                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+telegram-media-bot       46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+task6                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+LightEditProject         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      17 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,5 +82,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 02:43:54 UTC
+ Last Updated on 19/10/2026 02:56:53 UTC
 <!--END_SECTION:waka-->
