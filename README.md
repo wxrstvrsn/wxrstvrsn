@@ -44,24 +44,20 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 37 mins       ███████████████████████░░   90.46 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-CSV/TSV                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Bash                     17 mins             ████████████░░░░░░░░░░░░░   48.07 % 
+Python                   12 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
+Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 2 mins       ████████████████████████░   94.42 % 
-Claude Code              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Claude Code              31 mins             ██████████████████████░░░   87.54 % 
+PyCharm                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 
 🐱‍💻 Projects: 
-TeleTorr                 8 hrs 54 mins       █████████████████████░░░░   83.86 % 
-VVP                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-telegram-media-bot       46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+telegram-media-bot       35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,5 +77,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 03:03:58 UTC
+ Last Updated on 24/10/2026 03:00:36 UTC
 <!--END_SECTION:waka-->
