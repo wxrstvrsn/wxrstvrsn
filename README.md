@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,22 +44,25 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 48 mins        █████████████████████████   98.13 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 48 mins        ██████████████░░░░░░░░░░░   54.23 % 
+Bash                     1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.42 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 50 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 50 mins        ██████████████░░░░░░░░░░░   55.27 % 
+Claude Code              1 hr 29 mins        ███████████░░░░░░░░░░░░░░   44.73 % 
 
 🐱‍💻 Projects: 
-VVP                      1 hr 48 mins        ████████████████████████░   97.95 % 
-telegram-media-bot       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-TeleTorr                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VVP                      1 hr 48 mins        ██████████████░░░░░░░░░░░   54.13 % 
+scratch-2026-11-07-bad53e1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
+cleanyourtv              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+telegram-media-bot       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TeleTorr                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -79,5 +82,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2026 04:17:21 UTC
+ Last Updated on 08/11/2026 04:00:06 UTC
 <!--END_SECTION:waka-->
