@@ -44,26 +44,26 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
-Java                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Bash                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Python                   4 hrs 38 mins       █████████████░░░░░░░░░░░░   50.64 % 
+Java                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Bash                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 22 mins       █████████████░░░░░░░░░░░░   52.01 % 
-PyCharm                  4 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.77 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+PyCharm                  4 hrs 53 mins       █████████████░░░░░░░░░░░░   53.46 % 
+Claude Code              4 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.29 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-bot_dubna                3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
-VVP                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-tvos-launcher            1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-scratch-2026-11-07-2c6de91 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-cleanyourtv              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+bot_dubna                3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+VVP                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+tvos-launcher            1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+scratch-2026-11-07-2c6de91 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+scratch-2026-11-11-e1178439 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 💻 Operating System: 
-Mac                      10 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,5 +83,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 04:30:06 UTC
+ Last Updated on 16/11/2026 04:27:07 UTC
 <!--END_SECTION:waka-->
