@@ -44,26 +44,26 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 38 mins       █████████████░░░░░░░░░░░░   50.64 % 
-Java                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Bash                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Python                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Java                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Other                    1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Bash                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 53 mins       █████████████░░░░░░░░░░░░   53.46 % 
-Claude Code              4 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.29 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude Code              4 hrs 13 mins       █████████████████░░░░░░░░   67.78 % 
+PyCharm                  1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   31.86 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-bot_dubna                3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-VVP                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-tvos-launcher            1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-scratch-2026-11-07-2c6de91 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-scratch-2026-11-11-e1178439 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+VVP                      1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+tvos-launcher            1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+scratch-2026-11-07-2c6de91 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+scratch-2026-11-11-e1178439 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+bot_dubna                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 💻 Operating System: 
-Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,5 +83,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2026 04:27:07 UTC
+ Last Updated on 17/11/2026 06:11:30 UTC
 <!--END_SECTION:waka-->
