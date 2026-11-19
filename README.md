@@ -17,26 +17,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2013%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-🌆 Daytime                144 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-🌃 Evening                212 commits         █████████░░░░░░░░░░░░░░░░   34.53 % 
-🌙 Night                  221 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌞 Morning                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+🌆 Daytime                144 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+🌃 Evening                214 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌙 Night                  221 commits         █████████░░░░░░░░░░░░░░░░   35.88 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  122 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Friday                   127 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Tuesday                  122 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Wednesday                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Friday                   127 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 
@@ -44,26 +44,26 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   40.30 % 
-Bash                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Other                    49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Python                   2 hrs 39 mins       ███████████████░░░░░░░░░░   60.72 % 
+Bash                     1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 32 mins       ███████████████░░░░░░░░░░   59.18 % 
-PyCharm                  1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   40.30 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+PyCharm                  2 hrs 46 mins       ████████████████░░░░░░░░░   63.12 % 
+Claude Code              1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   36.36 % 
+CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-VVP                      1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
-scratch-2026-11-07-2c6de91 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-scratch-2026-11-11-e1178439 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-bot_dubna                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-tvos-chiq                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+VVP                      2 hrs 23 mins       ██████████████░░░░░░░░░░░   54.60 % 
+scratch-2026-11-07-2c6de91 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+TV-Launchers             29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+bot_dubna                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+referenced-chatgpt-conver6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,5 +83,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 05:40:26 UTC
+ Last Updated on 19/11/2026 05:38:56 UTC
 <!--END_SECTION:waka-->
