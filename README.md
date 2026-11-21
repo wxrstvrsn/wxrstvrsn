@@ -44,26 +44,20 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 20 mins       █████████████████░░░░░░░░   66.70 % 
-Bash                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Python                   3 hrs 7 mins        ████████████████████████░   97.99 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 27 mins       █████████████████░░░░░░░░   68.80 % 
-Claude Code              1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   30.75 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+PyCharm                  3 hrs 7 mins        █████████████████████████   98.12 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-VVP                      3 hrs 4 mins        ███████████████░░░░░░░░░░   61.43 % 
-scratch-2026-11-07-2c6de91 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-TV-Launchers             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-bot_dubna                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-referenced-chatgpt-conver6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+VVP                      2 hrs 51 mins       ██████████████████████░░░   89.71 % 
+bot_dubna                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+TV-Launchers             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 💻 Operating System: 
-Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,5 +77,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 05:27:06 UTC
+ Last Updated on 21/11/2026 05:19:05 UTC
 <!--END_SECTION:waka-->
