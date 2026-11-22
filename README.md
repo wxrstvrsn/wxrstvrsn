@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2017%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,20 +44,20 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 7 mins        ████████████████████████░   97.99 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Python                   3 hrs 7 mins        ████████████████████████░   96.35 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 7 mins        █████████████████████████   98.12 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+PyCharm                  3 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VVP                      2 hrs 51 mins       ██████████████████████░░░   89.71 % 
-bot_dubna                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-TV-Launchers             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VVP                      2 hrs 51 mins       ██████████████████████░░░   88.21 % 
+bot_dubna                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+LightEditProject         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,5 +77,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 05:19:05 UTC
+ Last Updated on 22/11/2026 04:45:07 UTC
 <!--END_SECTION:waka-->
