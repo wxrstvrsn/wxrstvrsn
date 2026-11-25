@@ -44,23 +44,23 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 7 mins        ████████████████████████░   96.35 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   2 hrs 51 mins       ████████████████████████░   96.02 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 14 mins       █████████████████████████   100.00 % 
+PyCharm                  2 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VVP                      2 hrs 51 mins       ██████████████████████░░░   88.17 % 
-bot_dubna                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-LightEditProject         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+VVP                      2 hrs 51 mins       ████████████████████████░   96.11 % 
+LightEditProject         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 results_without.csv      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 main.py                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+knowledge_base.py        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -80,5 +80,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 08:01:48 UTC
+ Last Updated on 25/11/2026 06:40:36 UTC
 <!--END_SECTION:waka-->
