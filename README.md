@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2011%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,23 +44,23 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       ████████████████████████░   95.99 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                   3 hrs 51 mins       ████████████████████████░   96.29 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 42 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VVP                      3 hrs 34 mins       ████████████████████████░   96.70 % 
-LightEditProject         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-knowledge_base.py        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+VVP                      3 hrs 53 mins       ████████████████████████░   96.95 % 
+LightEditProject         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+knowledge_base.py        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 results_without.csv      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 main.py                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -80,5 +80,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxrstvrsn/wxrstvrsn/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 06:28:02 UTC
+ Last Updated on 28/11/2026 05:59:26 UTC
 <!--END_SECTION:waka-->
